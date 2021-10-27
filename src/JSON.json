@@ -1,114 +1,153 @@
 {
+ "declaration": {
+  "attributes": {
+   "version": "1.0",
+   "encoding": "UTF-8"
+  }
+ },
  "elements": [
   {
    "type": "element",
-   "name": "root",
+   "name": "urlset",
+   "attributes": {
+    "xmlns": "http://www.sitemaps.org/schemas/sitemap/0.9"
+   },
    "elements": [
     {
      "type": "element",
-     "name": "graph",
+     "name": "url",
      "elements": [
       {
        "type": "element",
-       "name": "node",
+       "name": "loc",
        "elements": [
         {
-         "type": "element",
-         "name": "name",
-         "elements": [
-          {
-           "type": "text",
-           "text": "Node 1"
-          }
-         ]
-        },
-        {
-         "type": "element",
-         "name": "weight",
-         "elements": [
-          {
-           "type": "text",
-           "text": "24"
-          }
-         ]
+         "type": "text",
+         "text": "http://www.example.com/"
         }
        ]
       },
       {
        "type": "element",
-       "name": "node",
+       "name": "lastmod",
        "elements": [
         {
-         "type": "element",
-         "name": "name",
-         "elements": [
-          {
-           "type": "text",
-           "text": "Node 2"
-          }
-         ]
-        },
-        {
-         "type": "element",
-         "name": "weight",
-         "elements": [
-          {
-           "type": "text",
-           "text": "18"
-          }
-         ]
+         "type": "text",
+         "text": "2005-01-01"
         }
        ]
       },
       {
        "type": "element",
-       "name": "node",
+       "name": "changefreq",
        "elements": [
         {
-         "type": "element",
-         "name": "name",
-         "elements": [
-          {
-           "type": "text",
-           "text": "Node 3"
-          }
-         ]
-        },
+         "type": "text",
+         "text": "monthly"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "element",
+     "name": "url",
+     "elements": [
+      {
+       "type": "element",
+       "name": "loc",
+       "elements": [
         {
-         "type": "element",
-         "name": "weight",
-         "elements": [
-          {
-           "type": "text",
-           "text": "47"
-          }
-         ]
+         "type": "text",
+         "text": "http://www.example.com/catalog?item=12&desc=vacation_hawaii"
         }
        ]
       },
       {
        "type": "element",
-       "name": "node",
+       "name": "lastmod",
        "elements": [
         {
-         "type": "element",
-         "name": "name",
-         "elements": [
-          {
-           "type": "text",
-           "text": "Node 4"
-          }
-         ]
-        },
+         "type": "text",
+         "text": "2004-12-23T18:00:15+00:00"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "element",
+     "name": "url",
+     "elements": [
+      {
+       "type": "element",
+       "name": "loc",
+       "elements": [
         {
-         "type": "element",
-         "name": "weight",
-         "elements": [
-          {
-           "type": "text",
-           "text": "58"
-          }
-         ]
+         "type": "text",
+         "text": "http://www.example.com/catalog?item=73&desc=vacation_new_zealand"
+        }
+       ]
+      },
+      {
+       "type": "element",
+       "name": "lastmod",
+       "elements": [
+        {
+         "type": "text",
+         "text": "2004-12-23T18:00:15+00:00"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "element",
+     "name": "url",
+     "elements": [
+      {
+       "type": "element",
+       "name": "loc",
+       "elements": [
+        {
+         "type": "text",
+         "text": "http://www.example.com/catalog?item=74&desc=vacation_newfoundland"
+        }
+       ]
+      },
+      {
+       "type": "element",
+       "name": "lastmod",
+       "elements": [
+        {
+         "type": "text",
+         "text": "2004-12-23T18:00:15+00:00"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "element",
+     "name": "url",
+     "elements": [
+      {
+       "type": "element",
+       "name": "loc",
+       "elements": [
+        {
+         "type": "text",
+         "text": "http://www.example.com/catalog?item=83&desc=vacation_usa"
+        }
+       ]
+      },
+      {
+       "type": "element",
+       "name": "lastmod",
+       "elements": [
+        {
+         "type": "text",
+         "text": "2004-12-23T18:00:15+00:00"
         }
        ]
       }

@@ -1,40 +1,58 @@
 {
- "root": {
-  "graph": {
-   "node": [
-    {
-     "name": {
-      "_text": "Node 1"
-     },
-     "weight": {
-      "_text": "24"
-     }
-    },
-    {
-     "name": {
-      "_text": "Node 2"
-     },
-     "weight": {
-      "_text": "18"
-     }
-    },
-    {
-     "name": {
-      "_text": "Node 3"
-     },
-     "weight": {
-      "_text": "47"
-     }
-    },
-    {
-     "name": {
-      "_text": "Node 4"
-     },
-     "weight": {
-      "_text": "58"
-     }
-    }
-   ]
+ "_declaration": {
+  "_attributes": {
+   "version": "1.0",
+   "encoding": "UTF-8"
   }
+ },
+ "urlset": {
+  "_attributes": {
+   "xmlns": "http://www.sitemaps.org/schemas/sitemap/0.9"
+  },
+  "url": [
+   {
+    "loc": {
+     "_text": "http://www.example.com/"
+    },
+    "lastmod": {
+     "_text": "2005-01-01"
+    },
+    "changefreq": {
+     "_text": "monthly"
+    }
+   },
+   {
+    "loc": {
+     "_text": "http://www.example.com/catalog?item=12&desc=vacation_hawaii"
+    },
+    "lastmod": {
+     "_text": "2004-12-23T18:00:15+00:00"
+    }
+   },
+   {
+    "loc": {
+     "_text": "http://www.example.com/catalog?item=73&desc=vacation_new_zealand"
+    },
+    "lastmod": {
+     "_text": "2004-12-23T18:00:15+00:00"
+    }
+   },
+   {
+    "loc": {
+     "_text": "http://www.example.com/catalog?item=74&desc=vacation_newfoundland"
+    },
+    "lastmod": {
+     "_text": "2004-12-23T18:00:15+00:00"
+    }
+   },
+   {
+    "loc": {
+     "_text": "http://www.example.com/catalog?item=83&desc=vacation_usa"
+    },
+    "lastmod": {
+     "_text": "2004-12-23T18:00:15+00:00"
+    }
+   }
+  ]
  }
 }

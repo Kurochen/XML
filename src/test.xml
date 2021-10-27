@@ -1,20 +1,24 @@
-<root>
-    <graph>
-        <node>
-            <name>Node 1</name>
-            <weight>24</weight>
-        </node>
-        <node>
-            <name>Node 2</name>
-            <weight>18</weight>
-        </node>
-        <node>
-            <name>Node 3</name>
-            <weight>47</weight>
-        </node>
-        <node>
-            <name>Node 4</name>
-            <weight>58</weight>
-        </node>
-    </graph>
-</root>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <url>
+      <loc>https://catalogdom.web.app/</loc>
+   </url>
+   <url>
+      <loc>https://catalogdom.web.app/help/howaddhouse</loc> 
+   </url>
+    <url>
+      <loc>https://catalogdom.web.app/help/howbuyhouse</loc> 
+   </url>
+   <url>
+      <loc>https://catalogdom.web.app/viewhouse/u3dw8VVDQuqBPhGfGeXZ</loc>
+      <lastmod>2004-12-23T18:00:15+00:00</lastmod>
+   </url>
+   <url>
+      <loc>https://catalogdom.web.app/viewhouse/4sSMu5wOULof3D5KSbyI</loc>
+      <lastmod>2004-12-23T18:00:15+00:00</lastmod>
+   </url>
+   <url>
+      <loc>https://catalogdom.web.app/viewhouse/8Phk4RBGraY2Frwxe9Ki</loc>
+       <lastmod>2004-12-23T18:00:15+00:00</lastmod>
+   </url>
+</urlset>
