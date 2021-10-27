@@ -1,0 +1,120 @@
+{
+ "elements": [
+  {
+   "type": "element",
+   "name": "root",
+   "elements": [
+    {
+     "type": "element",
+     "name": "graph",
+     "elements": [
+      {
+       "type": "element",
+       "name": "node",
+       "elements": [
+        {
+         "type": "element",
+         "name": "name",
+         "elements": [
+          {
+           "type": "text",
+           "text": "Node 1"
+          }
+         ]
+        },
+        {
+         "type": "element",
+         "name": "weight",
+         "elements": [
+          {
+           "type": "text",
+           "text": "24"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "element",
+       "name": "node",
+       "elements": [
+        {
+         "type": "element",
+         "name": "name",
+         "elements": [
+          {
+           "type": "text",
+           "text": "Node 2"
+          }
+         ]
+        },
+        {
+         "type": "element",
+         "name": "weight",
+         "elements": [
+          {
+           "type": "text",
+           "text": "18"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "element",
+       "name": "node",
+       "elements": [
+        {
+         "type": "element",
+         "name": "name",
+         "elements": [
+          {
+           "type": "text",
+           "text": "Node 3"
+          }
+         ]
+        },
+        {
+         "type": "element",
+         "name": "weight",
+         "elements": [
+          {
+           "type": "text",
+           "text": "47"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "element",
+       "name": "node",
+       "elements": [
+        {
+         "type": "element",
+         "name": "name",
+         "elements": [
+          {
+           "type": "text",
+           "text": "Node 4"
+          }
+         ]
+        },
+        {
+         "type": "element",
+         "name": "weight",
+         "elements": [
+          {
+           "type": "text",
+           "text": "58"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

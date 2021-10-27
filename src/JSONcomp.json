@@ -1,0 +1,40 @@
+{
+ "root": {
+  "graph": {
+   "node": [
+    {
+     "name": {
+      "_text": "Node 1"
+     },
+     "weight": {
+      "_text": "24"
+     }
+    },
+    {
+     "name": {
+      "_text": "Node 2"
+     },
+     "weight": {
+      "_text": "18"
+     }
+    },
+    {
+     "name": {
+      "_text": "Node 3"
+     },
+     "weight": {
+      "_text": "47"
+     }
+    },
+    {
+     "name": {
+      "_text": "Node 4"
+     },
+     "weight": {
+      "_text": "58"
+     }
+    }
+   ]
+  }
+ }
+}
